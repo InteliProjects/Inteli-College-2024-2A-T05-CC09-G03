@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1154761</id>
+      <size>1282</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-08-14 11:24:57.451435+00:00</created>
+      <updated>2024-08-14 13:20:00.816222+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>1281</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1156937</id>
+          <start>0</start>
+          <stop>1281</stop>
+          <url>https://app.cvat.ai/api/jobs/1154761</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tony75</username>
+        <email>tony.sousa@sou.inteli.edu.br</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>X</name>
+          <color>#33ddff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cabeca</name>
+          <color>#ffffff</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>olho</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-08-14 13:21:11.120770+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_2564.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="662.07" ytl="299.25" xbr="1297.49" ybr="941.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1183.09" ytl="546.73" xbr="1219.64" ybr="588.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="966.73" ytl="361.45" xbr="1248.73" ybr="905.09" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_2565.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="801.27" ytl="488.55" xbr="839.64" ybr="543.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="535.75" ytl="227.28" xbr="1295.54" ybr="928.34" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="750.36" ytl="297.82" xbr="1034.00" ybr="854.18" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_2566.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="1.24" ytl="352.34" xbr="537.64" ybr="882.86" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="128.55" ytl="455.82" xbr="304.91" ybr="808.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="250.55" ytl="574.00" xbr="279.45" ybr="626.91" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_2567.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="904.91" ytl="481.27" xbr="963.09" ybr="552.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="726.91" ytl="294.00" xbr="988.73" ybr="846.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="497.89" ytl="224.14" xbr="1225.47" ybr="935.80" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_2568.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="361.47" ytl="362.83" xbr="1116.33" ybr="1001.74" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="743.09" ytl="546.91" xbr="804.90" ybr="634.20" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="575.82" ytl="406.73" xbr="834.00" ybr="921.45" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_2569.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="950.55" ytl="365.09" xbr="981.27" ybr="414.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="655.57" ytl="212.51" xbr="1262.80" ybr="717.81" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="814.00" ytl="283.27" xbr="1030.55" ybr="623.27" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_2570.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="236.00" ytl="559.64" xbr="268.73" ybr="597.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="128.55" ytl="474.18" xbr="297.82" ybr="763.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="0.00" ytl="357.81" xbr="501.59" ybr="869.62" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame_2571.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="494.00" ytl="401.27" xbr="739.64" ybr="837.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="654.00" ytl="530.55" xbr="686.91" ybr="583.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="332.43" ytl="292.75" xbr="933.16" ybr="912.99" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_2572.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="224.00" ytl="377.33" xbr="774.84" ybr="882.63" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="357.64" ytl="419.45" xbr="576.00" ybr="805.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="492.18" ytl="536.00" xbr="528.73" ybr="594.18" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame_2573.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="1139.45" ytl="437.82" xbr="1183.09" ybr="494.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="716.29" ytl="251.54" xbr="1299.66" ybr="860.94" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="924.91" ytl="279.45" xbr="1208.73" ybr="817.82" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame_2574.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="212.18" ytl="548.55" xbr="384.91" ybr="910.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="326.91" ytl="659.45" xbr="366.91" ybr="712.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="83.04" ytl="500.94" xbr="568.82" ybr="941.18" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame_2575.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="594.84" ytl="388.17" xbr="1197.74" ybr="943.35" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="826.73" ytl="428.50" xbr="1063.27" ybr="917.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="832.18" ytl="656.00" xbr="856.00" ybr="705.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1014.00" ytl="623.09" xbr="1050.55" ybr="679.64" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame_2576.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="258.70" ytl="366.48" xbr="783.52" ybr="882.63" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="390.36" ytl="436.00" xbr="614.00" ybr="823.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="550.55" ytl="574.00" xbr="577.64" ybr="621.45" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame_2577.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="955.82" ytl="323.27" xbr="1237.82" ybr="843.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="690.27" ytl="284.07" xbr="1304.00" ybr="856.60" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="986.73" ytl="530.36" xbr="1036.00" ybr="585.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1184.91" ytl="503.09" xbr="1221.27" ybr="565.09" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_2579.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="280.39" ytl="416.36" xbr="759.66" ybr="871.78" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="399.45" ytl="481.27" xbr="581.27" ybr="846.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="525.09" ytl="584.91" xbr="557.64" ybr="630.54" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_2580.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="241.35" ytl="388.17" xbr="846.41" ybr="945.52" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="574.00" ytl="599.45" xbr="617.82" ybr="656.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="432.18" ytl="466.73" xbr="659.64" ybr="901.45" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame_2585.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="551.47" ytl="297.08" xbr="1264.96" ybr="904.31" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="999.64" ytl="534.18" xbr="1026.73" ybr="594.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="759.45" ytl="354.18" xbr="1052.18" ybr="852.36" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame_2586.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="694.00" ytl="415.82" xbr="928.73" ybr="921.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="868.73" ytl="566.91" xbr="899.64" ybr="623.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="542.80" ytl="412.02" xbr="1189.06" ybr="943.35" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_2589.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="277.64" ytl="683.64" xbr="526.73" ybr="1076.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="294.00" ytl="872.16" xbr="337.84" ybr="934.19" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="461.27" ytl="823.09" xbr="494.18" ybr="888.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="52.68" ytl="626.72" xbr="783.52" ybr="1077.81" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_2590.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="432.18" ytl="636.36" xbr="690.36" ybr="1076.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="233.16" ytl="596.95" xbr="905.79" ybr="1076.32" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="574.00" ytl="814.00" xbr="626.91" ybr="905.09" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame_2592.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="105.64" ytl="591.07" xbr="780.17" ybr="1076.13" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="406.91" ytl="801.27" xbr="472.18" ybr="879.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="259.45" ytl="636.36" xbr="539.45" ybr="1076.36" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame_2593.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="415.82" ytl="490.91" xbr="688.55" ybr="998.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="253.43" ytl="424.34" xbr="910.90" ybr="1025.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="441.27" ytl="706.73" xbr="485.09" ybr="770.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="619.64" ytl="668.55" xbr="655.82" ybr="730.55" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="frame_2594.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="359.54" ytl="363.70" xbr="1015.12" ybr="971.92" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="559.45" ytl="450.73" xbr="830.36" ybr="925.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="588.55" ytl="643.09" xbr="643.09" ybr="721.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="764.91" ytl="601.27" xbr="795.82" ybr="657.82" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="frame_2595.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="903.09" ytl="356.18" xbr="1163.09" ybr="805.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="675.77" ytl="261.39" xbr="1206.48" ybr="831.70" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="941.27" ytl="521.46" xbr="985.09" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame_2606.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="702.29" ytl="227.28" xbr="1282.27" ybr="778.65" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="899.45" ytl="320.00" xbr="1135.82" ybr="740.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1041.27" ytl="404.91" xbr="1086.91" ybr="461.45" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="frame_2611.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="988.73" ytl="434.18" xbr="1035.82" ybr="485.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="728.82" ytl="217.81" xbr="1286.06" ybr="786.23" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="941.27" ytl="310.91" xbr="1228.55" ybr="749.09" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame_2619.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="190.72" ytl="358.02" xbr="854.06" ybr="934.02" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="594.00" ytl="585.09" xbr="637.82" ybr="634.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="424.91" ytl="414.55" xbr="661.27" ybr="901.82" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="frame_2621.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="774.00" ytl="445.45" xbr="1054.00" ybr="936.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="493.87" ytl="409.18" xbr="1242.48" ybr="1024.97" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="988.73" ytl="639.45" xbr="1028.73" ybr="710.55" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="frame_2622.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="687.14" ytl="299.28" xbr="1301.22" ybr="814.65" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="937.64" ytl="348.91" xbr="1177.64" ybr="803.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1123.09" ytl="496.00" xbr="1161.27" ybr="552.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="963.09" ytl="503.27" xbr="997.82" ybr="563.27" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame_2628.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="444.91" ytl="548.55" xbr="484.91" ybr="610.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="200.38" ytl="390.23" xbr="674.06" ybr="833.60" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="321.27" ytl="460.00" xbr="501.27" ybr="787.27" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="frame_2629.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="930.36" ytl="241.64" xbr="1197.64" ybr="705.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="687.14" ytl="196.97" xbr="1306.90" ybr="742.65" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="983.09" ytl="410.36" xbr="1017.82" ybr="461.45" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="frame_2635.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="465.45" ytl="151.49" xbr="1159.12" ybr="750.23" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="715.82" ytl="232.73" xbr="963.09" ybr="701.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="874.00" ytl="372.18" xbr="930.55" ybr="423.27" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="frame_2638.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="817.87" ytl="217.81" xbr="1305.01" ybr="647.92" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="1043.09" ytl="236.18" xbr="1266.73" ybr="594.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1103.09" ytl="339.45" xbr="1132.18" ybr="374.18" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="frame_2648.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="988.73" ytl="494.18" xbr="1010.55" ybr="534.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="628.59" ytl="323.92" xbr="1214.06" ybr="844.97" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="843.09" ytl="490.36" xbr="866.91" ybr="543.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="817.64" ytl="356.36" xbr="1030.36" ybr="796.36" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="frame_2654.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="588.55" ytl="340.00" xbr="823.09" ybr="767.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="416.38" ytl="287.92" xbr="1001.85" ybr="807.07" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="630.36" ytl="477.82" xbr="670.55" ybr="526.91" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="frame_2671.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="530.36" ytl="448.55" xbr="570.36" ybr="501.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="386.73" ytl="301.64" xbr="603.09" ybr="734.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="215.54" ytl="280.34" xbr="814.27" ybr="769.18" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="frame_2674.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="746.91" ytl="496.00" xbr="784.91" ybr="543.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="416.38" ytl="306.86" xbr="1045.43" ybr="841.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="594.00" ytl="367.09" xbr="810.36" ybr="792.73" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="frame_2679.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="194.69" ytl="303.07" xbr="702.48" ybr="738.86" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="472.18" ytl="445.09" xbr="508.73" ybr="485.09" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="335.82" ytl="336.18" xbr="535.82" ybr="701.82" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="frame_2680.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="983.09" ytl="481.27" xbr="1019.64" ybr="525.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="554.50" ytl="312.55" xbr="1206.48" ybr="833.60" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="784.91" ytl="334.55" xbr="1050.36" ybr="812.73" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="frame_2681.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="590.50" ytl="441.39" xbr="1229.22" ybr="1021.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="990.55" ytl="670.36" xbr="1035.82" ybr="721.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="839.46" ytl="492.54" xbr="1081.27" ybr="938.18" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="frame_2685.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="533.66" ytl="500.13" xbr="1151.54" ybr="1009.81" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="946.91" ytl="692.18" xbr="984.91" ybr="745.09" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="803.09" ytl="516.18" xbr="1003.09" ybr="994.55" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="frame_2686.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="601.87" ytl="359.92" xbr="1206.48" ybr="862.02" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="956.00" ytl="546.91" xbr="1004.91" ybr="592.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="819.45" ytl="420.00" xbr="1028.55" ybr="818.18" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="frame_2687.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="901.27" ytl="550.36" xbr="934.18" ybr="610.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="730.36" ytl="399.82" xbr="977.64" ybr="830.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="563.98" ytl="380.76" xbr="1128.80" ybr="856.34" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="frame_2688.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="897.64" ytl="568.55" xbr="939.64" ybr="621.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="879.45" ytl="450.73" xbr="1064.91" ybr="834.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="635.98" ytl="414.86" xbr="1166.69" ybr="886.65" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="frame_2691.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="637.64" ytl="403.45" xbr="883.09" ybr="785.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="784.91" ytl="536.00" xbr="823.09" ybr="585.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="522.48" ytl="378.86" xbr="1066.27" ybr="826.02" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="frame_2692.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="823.09" ytl="334.55" xbr="1077.64" ybr="778.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1003.09" ytl="472.36" xbr="1059.64" ybr="552.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="613.24" ytl="297.39" xbr="1138.27" ybr="801.39" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="frame_2697.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="497.64" ytl="409.09" xbr="734.00" ybr="796.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="382.27" ytl="344.76" xbr="918.48" ybr="841.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="661.27" ytl="523.09" xbr="706.91" ybr="590.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="524.91" ytl="550.36" xbr="552.18" ybr="597.82" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="frame_2706.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="597.64" ytl="692.73" xbr="906.73" ybr="998.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="779.64" ytl="801.27" xbr="823.09" ybr="846.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="482.69" ytl="647.92" xbr="998.06" ybr="1024.97" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="frame_2723.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="550.90" ytl="382.65" xbr="954.48" ybr="721.81" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="654.00" ytl="412.73" xbr="839.45" ybr="689.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="792.18" ytl="510.36" xbr="819.64" ybr="554.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="675.82" ytl="494.18" xbr="704.91" ybr="543.27" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="frame_2724.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="1037.27" ytl="531.82" xbr="1075.45" ybr="577.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="707.98" ytl="414.86" xbr="1162.90" ybr="799.49" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="904.91" ytl="441.82" xbr="1088.55" ybr="750.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="910.36" ytl="530.36" xbr="948.73" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="frame_2770.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="515.82" ytl="380.00" xbr="735.82" ybr="847.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="374.69" ytl="344.76" xbr="931.75" ybr="871.49" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="663.09" ytl="506.73" xbr="714.00" ybr="570.55" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="frame_2782.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="861.27" ytl="555.82" xbr="897.82" ybr="615.97" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="646.73" ytl="447.27" xbr="939.45" ybr="881.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="514.90" ytl="395.92" xbr="1081.43" ybr="907.49" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="frame_2783.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="478.90" ytl="447.07" xbr="1104.17" ybr="958.65" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="681.27" ytl="621.27" xbr="739.64" ybr="679.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="646.73" ytl="487.09" xbr="941.27" ybr="929.09" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="frame_2790.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="734.00" ytl="243.09" xbr="768.73" ybr="285.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="403.12" ytl="111.70" xbr="926.06" ybr="598.65" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="581.27" ytl="154.55" xbr="779.45" ybr="516.36" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="frame_2792.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="388.55" ytl="116.18" xbr="614.00" ybr="443.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="414.00" ytl="206.91" xbr="456.00" ybr="254.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="232.59" ytl="109.81" xbr="730.90" ybr="486.86" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="563.09" ytl="190.36" xbr="594.00" ybr="243.27" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="frame_2793.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="245.85" ytl="403.49" xbr="846.48" ybr="977.60" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="564.55" ytl="604.55" xbr="610.00" ybr="668.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="388.55" ytl="436.18" xbr="639.45" ybr="940.00" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="frame_2794.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="60.17" ytl="145.81" xbr="547.12" ybr="541.81" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="279.64" ytl="268.55" xbr="332.18" ybr="312.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="164.91" ytl="180.00" xbr="363.09" ybr="478.18" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="frame_2796.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="128.38" ytl="115.49" xbr="645.64" ybr="568.34" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="275.82" ytl="174.55" xbr="468.55" ybr="498.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="406.91" ytl="248.55" xbr="444.91" ybr="281.45" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="frame_2798.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="221.22" ytl="424.34" xbr="838.90" ybr="939.70" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="534.00" ytl="603.09" xbr="577.82" ybr="657.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="423.09" ytl="458.00" xbr="619.45" ybr="910.91" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="frame_2814.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="921.27" ytl="468.55" xbr="952.18" ybr="510.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="740.38" ytl="322.02" xbr="1259.54" ybr="746.44" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1043.09" ytl="457.64" xbr="1081.27" ybr="501.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="912.18" ytl="358.00" xbr="1103.09" ybr="690.91" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="frame_2817.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="560.38" ytl="337.18" xbr="1045.43" ybr="755.92" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="690.36" ytl="385.45" xbr="872.18" ybr="670.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="717.64" ytl="470.36" xbr="756.00" ybr="523.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="839.64" ytl="476.00" xbr="859.64" ybr="521.45" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="frame_2818.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="917.82" ytl="235.82" xbr="950.55" ybr="281.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="628.59" ytl="145.81" xbr="1111.75" ybr="462.23" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="834.00" ytl="255.82" xbr="854.00" ybr="288.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="815.82" ytl="174.55" xbr="959.45" ybr="412.73" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="frame_2819.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="848.55" ytl="501.27" xbr="879.64" ybr="548.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="971.82" ytl="493.64" xbr="1004.55" ybr="548.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="835.82" ytl="387.09" xbr="1021.27" ybr="730.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="710.06" ytl="361.81" xbr="1197.01" ybr="759.70" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="frame_2820.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="736.00" ytl="497.82" xbr="772.18" ybr="546.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="634.00" ytl="510.36" xbr="663.09" ybr="543.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="623.09" ytl="410.91" xbr="777.64" ybr="710.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="505.43" ytl="388.34" xbr="946.90" ybr="759.70" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="frame_2821.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="1061.27" ytl="390.91" xbr="1243.09" ybr="778.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1075.82" ytl="510.36" xbr="1110.55" ybr="565.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="882.29" ytl="361.81" xbr="1286.06" ybr="790.02" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="frame_2825.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="763.09" ytl="521.27" xbr="797.82" ybr="568.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="655.82" ytl="423.64" xbr="821.27" ybr="738.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="541.43" ytl="386.44" xbr="999.96" ybr="788.13" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="frame_2826.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="808.55" ytl="657.82" xbr="839.45" ybr="697.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="690.36" ytl="657.64" xbr="719.64" ybr="701.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="636.17" ytl="534.23" xbr="1064.38" ybr="898.02" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="661.27" ytl="549.09" xbr="857.64" ybr="876.36" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="frame_2828.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="617.64" ytl="178.00" xbr="761.27" ybr="414.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="626.73" ytl="243.27" xbr="652.18" ybr="283.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="486.48" ytl="143.92" xbr="963.96" ybr="477.39" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="719.64" ytl="228.55" xbr="744.91" ybr="270.55" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="frame_2834.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="1010.36" ytl="225.45" xbr="1195.82" ybr="561.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1037.64" ytl="334.00" xbr="1077.82" ybr="381.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="842.50" ytl="183.70" xbr="1269.01" ybr="577.81" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="frame_2835.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="926.73" ytl="555.82" xbr="963.09" ybr="606.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="903.09" ytl="425.45" xbr="1101.27" ybr="789.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="749.66" ytl="395.92" xbr="1197.01" ybr="812.76" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="frame_2839.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="524.38" ytl="204.55" xbr="960.20" ybr="549.40" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="634.00" ytl="245.45" xbr="806.73" ybr="461.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="661.27" ytl="310.36" xbr="686.91" ybr="345.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="751.82" ytl="290.00" xbr="786.36" ybr="333.64" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="frame_2840.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="510.36" ytl="252.73" xbr="655.82" ybr="450.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="413.17" ytl="211.93" xbr="819.69" ybr="513.28" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="606.91" ytl="286.91" xbr="639.64" ybr="330.55" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="frame_2846.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="782.73" ytl="253.64" xbr="817.27" ybr="304.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="552.72" ytl="161.37" xbr="1032.05" ybr="476.88" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="684.91" ytl="183.64" xbr="852.18" ybr="436.36" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="frame_2850.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="837.27" ytl="206.36" xbr="877.27" ybr="273.64" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="672.05" ytl="82.70" xbr="1133.17" ybr="450.99" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="821.27" ytl="99.82" xbr="1017.64" ybr="432.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="968.73" ytl="203.09" xbr="999.64" ybr="277.82" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="frame_2873.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="1019.64" ytl="494.00" xbr="1055.82" ybr="548.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="872.18" ytl="361.82" xbr="1063.09" ybr="807.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="742.83" ytl="359.98" xbr="1246.43" ybr="831.21" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="frame_2878.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="941.27" ytl="274.00" xbr="984.91" ybr="326.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="892.18" ytl="203.45" xbr="1084.91" ybr="505.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="759.01" ytl="179.98" xbr="1214.07" ybr="576.38" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="frame_2892.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="723.09" ytl="494.18" xbr="765.09" ybr="552.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="614.00" ytl="496.00" xbr="652.18" ybr="556.00" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="494.07" ytl="400.43" xbr="910.70" ybr="760.43" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="601.27" ytl="414.55" xbr="770.36" ybr="716.36" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="frame_2895.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="715.82" ytl="383.09" xbr="759.64" ybr="437.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="595.19" ytl="281.10" xbr="1005.75" ybr="606.72" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="708.55" ytl="301.64" xbr="848.55" ybr="574.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="817.82" ytl="377.82" xbr="843.09" ybr="423.27" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="frame_2896.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="643.09" ytl="252.18" xbr="672.18" ybr="303.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="435.42" ytl="159.75" xbr="815.64" ybr="479.30" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="539.45" ytl="178.00" xbr="688.55" ybr="432.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="546.73" ytl="259.45" xbr="577.82" ybr="301.45" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="frame_2897.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="676.09" ytl="139.53" xbr="1125.08" ybr="535.93" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="814.00" ytl="143.45" xbr="1004.91" ybr="514.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="952.18" ytl="237.82" xbr="983.09" ybr="306.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="834.00" ytl="243.09" xbr="872.18" ybr="299.64" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="frame_2905.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="901.27" ytl="581.27" xbr="937.82" ybr="656.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="875.82" ytl="394.55" xbr="1115.82" ybr="892.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="704.20" ytl="339.55" xbr="1218.11" ybr="924.25" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1074.00" ytl="546.73" xbr="1112.18" ybr="610.55" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="frame_2912.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="364.63" ytl="163.80" xbr="831.82" ybr="503.57" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="613.64" ytl="244.55" xbr="655.45" ybr="310.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="519.45" ytl="266.91" xbr="552.18" ybr="316.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="492.18" ytl="165.45" xbr="675.82" ybr="449.09" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="frame_2913.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="502.73" ytl="288.18" xbr="530.00" ybr="328.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="474.00" ytl="196.18" xbr="654.00" ybr="465.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="392.94" ytl="200.20" xbr="759.01" ybr="511.66" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="frame_2916.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="603.09" ytl="290.36" xbr="630.55" ybr="326.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="721.27" ytl="268.73" xbr="739.64" ybr="310.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="463.73" ytl="163.80" xbr="890.47" ybr="521.78" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="592.18" ytl="189.09" xbr="748.55" ybr="476.36" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="frame_2922.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="617.44" ytl="22.02" xbr="1114.97" ybr="414.58" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="897.82" ytl="103.27" xbr="923.09" ybr="156.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="766.36" ytl="113.64" xbr="793.64" ybr="164.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="741.27" ytl="38.00" xbr="943.09" ybr="332.73" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="frame_2936.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="661.27" ytl="112.73" xbr="997.64" ybr="378.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="514.29" ytl="58.43" xbr="1066.43" ybr="448.97" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="746.73" ytl="177.82" xbr="784.91" ybr="216.00" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="frame_2939.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="652.18" ytl="292.18" xbr="685.09" ybr="345.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="534.00" ytl="310.36" xbr="574.18" ybr="350.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="423.28" ytl="192.11" xbr="852.05" ybr="552.11" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="523.09" ytl="205.45" xbr="690.36" ybr="516.36" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="frame_2940.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="572.18" ytl="552.18" xbr="606.91" ybr="597.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="366.65" ytl="444.92" xbr="789.35" ybr="780.65" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="459.45" ytl="468.91" xbr="630.36" ybr="752.73" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="frame_2948.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="472.18" ytl="407.09" xbr="646.73" ybr="725.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="403.06" ytl="390.32" xbr="795.42" ybr="766.49" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="584.91" ytl="499.45" xbr="621.45" ybr="554.18" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="frame_2958.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="939.45" ytl="403.64" xbr="1134.00" ybr="776.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="799.46" ytl="355.93" xbr="1282.83" ybr="796.83" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1066.91" ytl="530.36" xbr="1104.91" ybr="577.82" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="frame_2966.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="772.18" ytl="170.91" xbr="914.00" ybr="407.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="631.60" ytl="145.39" xbr="1009.80" ybr="461.10" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="872.18" ytl="230.55" xbr="897.82" ybr="281.45" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="frame_2994.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="297.89" ytl="515.71" xbr="829.80" ybr="954.58" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="448.55" ytl="572.55" xbr="621.27" ybr="905.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="557.82" ytl="681.27" xbr="590.55" ybr="739.64" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="frame_2996.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="846.91" ytl="730.36" xbr="877.82" ybr="770.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="502.16" ytl="568.29" xbr="1070.47" ybr="1015.26" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="697.64" ytl="620.00" xbr="926.73" ybr="998.18" z_order="0">
+    </box>
+  </image>
+  <image id="525" name="frame_3089.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="376.76" ytl="368.07" xbr="939.01" ybr="837.28" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="550.36" ytl="407.09" xbr="752.18" ybr="765.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="568.55" ytl="519.45" xbr="606.91" ybr="586.91" z_order="0">
+    </box>
+  </image>
+  <image id="551" name="frame_3115.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="166.73" ytl="181.64" xbr="352.18" ybr="445.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="28.90" ytl="155.71" xbr="540.58" ybr="501.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="286.91" ytl="248.55" xbr="319.64" ybr="299.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="190.36" ytl="252.18" xbr="216.00" ybr="308.73" z_order="0">
+    </box>
+  </image>
+  <image id="605" name="frame_3169.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="277.64" ytl="216.18" xbr="459.45" ybr="514.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="393.64" ytl="331.82" xbr="413.64" ybr="371.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="125.78" ytl="183.82" xbr="558.79" ybr="539.98" z_order="0">
+    </box>
+  </image>
+  <image id="625" name="frame_3189.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="888.73" ytl="261.27" xbr="923.09" ybr="306.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="754.00" ytl="266.91" xbr="784.91" ybr="314.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="734.00" ytl="158.00" xbr="939.45" ybr="490.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="589.12" ytl="147.62" xbr="1139.24" ybr="539.98" z_order="0">
+    </box>
+  </image>
+  <image id="626" name="frame_3190.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="454.00" ytl="194.00" xbr="488.73" ybr="261.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="95.64" ytl="101.10" xbr="704.41" ybr="517.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="286.91" ytl="188.73" xbr="324.91" ybr="256.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="263.09" ytl="105.45" xbr="517.64" ybr="474.55" z_order="0">
+    </box>
+  </image>
+  <image id="627" name="frame_3191.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="284.91" ytl="203.09" xbr="337.82" ybr="250.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="92.18" ytl="112.73" xbr="364.91" ybr="450.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="130.55" ytl="206.91" xbr="161.27" ybr="248.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="36.99" ytl="113.24" xbr="570.92" ybr="503.57" z_order="0">
+    </box>
+  </image>
+  <image id="646" name="frame_3210.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="648.18" ytl="150.00" xbr="675.45" ybr="202.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="469.80" ytl="64.49" xbr="1030.02" ybr="485.37" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="621.27" ytl="87.09" xbr="850.36" ybr="445.45" z_order="0">
+    </box>
+  </image>
+  <image id="649" name="frame_3213.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="344.91" ytl="114.55" xbr="599.45" ybr="512.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="519.64" ytl="212.18" xbr="563.09" ybr="257.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="225.08" ytl="105.15" xbr="835.87" ybr="582.45" z_order="0">
+    </box>
+  </image>
+  <image id="711" name="frame_3275.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="572.94" ytl="380.20" xbr="995.64" ybr="794.81" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="701.27" ytl="440.00" xbr="859.45" ybr="758.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="726.91" ytl="528.73" xbr="759.64" ybr="574.18" z_order="0">
+    </box>
+  </image>
+  <image id="734" name="frame_3298.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="263.09" ytl="228.55" xbr="301.27" ybr="265.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="28.90" ytl="113.24" xbr="483.96" ybr="432.79" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="157.64" ytl="136.18" xbr="328.55" ybr="381.82" z_order="0">
+    </box>
+  </image>
+  <image id="737" name="frame_3301.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="548.55" ytl="343.09" xbr="579.64" ybr="399.64" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="382.83" ytl="216.38" xbr="930.92" ybr="622.90" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="528.55" ytl="238.00" xbr="683.09" ybr="565.45" z_order="0">
+    </box>
+  </image>
+  <image id="744" name="frame_3308.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="377.64" ytl="125.45" xbr="563.09" ybr="507.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="257.44" ytl="119.30" xbr="793.39" ybr="558.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="390.36" ytl="250.36" xbr="419.64" ybr="301.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="514.00" ytl="255.82" xbr="544.91" ybr="301.45" z_order="0">
+    </box>
+  </image>
+  <image id="748" name="frame_3312.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="559.45" ytl="261.27" xbr="597.82" ybr="312.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="399.01" ytl="141.55" xbr="888.45" ybr="527.84" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="537.64" ytl="179.82" xbr="703.09" ybr="481.82" z_order="0">
+    </box>
+  </image>
+  <image id="752" name="frame_3316.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="663.96" ytl="234.58" xbr="1145.30" ybr="675.48" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="839.45" ytl="368.55" xbr="884.91" ybr="423.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="808.55" ytl="278.00" xbr="1003.09" ybr="610.91" z_order="0">
+    </box>
+  </image>
+  <image id="754" name="frame_3318.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="520.91" ytl="193.64" xbr="555.45" ybr="242.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="479.45" ytl="125.45" xbr="703.09" ybr="409.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="350.47" ytl="84.72" xbr="850.02" ybr="438.85" z_order="0">
+    </box>
+  </image>
+  <image id="761" name="frame_3325.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="79.26" ytl="131.44" xbr="635.64" ybr="568.29" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="250.36" ytl="149.09" xbr="454.00" ybr="516.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="283.09" ytl="252.18" xbr="323.09" ybr="301.45" z_order="0">
+    </box>
+  </image>
+  <image id="779" name="frame_3343.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="206.88" ytl="149.64" xbr="688.23" ybr="537.96" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="401.27" ytl="174.55" xbr="570.36" ybr="518.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="419.45" ytl="250.36" xbr="456.00" ybr="303.27" z_order="0">
+    </box>
+  </image>
+  <image id="785" name="frame_3349.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="726.73" ytl="290.36" xbr="759.64" ybr="330.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="679.45" ytl="218.00" xbr="890.36" ybr="501.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="461.51" ytl="208.29" xbr="951.15" ybr="527.84" z_order="0">
+    </box>
+  </image>
+  <image id="786" name="frame_3350.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="670.36" ytl="261.64" xbr="890.36" ybr="532.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="717.64" ytl="321.27" xbr="761.27" ybr="372.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="512.07" ytl="210.11" xbr="975.42" ybr="568.29" z_order="0">
+    </box>
+  </image>
+  <image id="787" name="frame_3351.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="263.09" ytl="136.18" xbr="494.00" ybr="514.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="144.18" ytl="125.37" xbr="692.27" ybr="570.32" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="312.18" ytl="235.82" xbr="348.73" ybr="290.55" z_order="0">
+    </box>
+  </image>
+  <image id="792" name="frame_3356.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="200.81" ytl="208.29" xbr="726.65" ybr="588.52" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="452.18" ytl="321.27" xbr="492.18" ybr="368.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="314.00" ytl="232.73" xbr="508.55" ybr="532.73" z_order="0">
+    </box>
+  </image>
+  <image id="793" name="frame_3357.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="830.36" ytl="378.00" xbr="948.55" ybr="612.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="724.63" ytl="362.00" xbr="1121.03" ybr="649.19" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="833.64" ytl="442.73" xbr="868.18" ybr="490.00" z_order="0">
+    </box>
+  </image>
+  <image id="794" name="frame_3358.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="534.00" ytl="374.00" xbr="566.91" ybr="425.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="245.30" ytl="232.56" xbr="769.12" ybr="639.08" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="379.45" ytl="265.45" xbr="584.91" ybr="590.91" z_order="0">
+    </box>
+  </image>
+  <image id="797" name="frame_3361.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="640.91" ytl="595.45" xbr="670.00" ybr="646.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="449.57" ytl="448.97" xbr="886.43" ybr="837.28" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="601.27" ytl="507.09" xbr="777.64" ybr="818.18" z_order="0">
+    </box>
+  </image>
+  <image id="812" name="frame_3376.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="897.64" ytl="446.91" xbr="936.00" ybr="505.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="647.57" ytl="268.76" xbr="1203.96" ybr="730.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1037.82" ytl="444.91" xbr="1066.73" ybr="490.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="881.27" ytl="387.09" xbr="1090.36" ybr="714.55" z_order="0">
+    </box>
+  </image>
+  <image id="817" name="frame_3381.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="500.14" ytl="501.35" xbr="955.19" ybr="851.44" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="632.18" ytl="563.64" xbr="812.18" ybr="841.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="663.09" ytl="635.82" xbr="706.91" ybr="681.45" z_order="0">
+    </box>
+  </image>
+  <image id="818" name="frame_3382.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="1064.91" ytl="676.00" xbr="1104.91" ybr="723.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="972.18" ytl="578.00" xbr="1230.36" ybr="860.00" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="783.08" ytl="517.53" xbr="1254.52" ybr="916.16" z_order="0">
+    </box>
+  </image>
+  <image id="820" name="frame_3384.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="603.09" ytl="341.64" xbr="815.82" ybr="672.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="498.11" ytl="297.28" xbr="965.30" ybr="705.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="735.45" ytl="426.36" xbr="779.09" ybr="480.91" z_order="0">
+    </box>
+  </image>
+  <image id="826" name="frame_3390.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="783.09" ytl="556.00" xbr="819.64" ybr="623.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="433.39" ytl="380.20" xbr="949.12" ybr="885.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="586.73" ytl="432.73" xbr="848.55" ybr="856.36" z_order="0">
+    </box>
+  </image>
+  <image id="828" name="frame_3392.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="526.23" ytl="74.81" xbr="1038.11" ybr="531.89" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="866.91" ytl="223.09" xbr="901.27" ybr="268.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="732.18" ytl="119.82" xbr="952.18" ybr="485.45" z_order="0">
+    </box>
+  </image>
+  <image id="833" name="frame_3397.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="676.00" ytl="179.45" xbr="728.73" ybr="239.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="539.45" ytl="103.60" xbr="744.91" ybr="432.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="411.15" ytl="99.08" xbr="916.76" ybr="479.30" z_order="0">
+    </box>
+  </image>
+  <image id="844" name="frame_3408.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="784.91" ytl="21.64" xbr="1024.91" ybr="432.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="588.92" ytl="1.80" xbr="1145.30" ybr="467.17" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="968.73" ytl="145.09" xbr="992.18" ybr="194.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="817.64" ytl="152.18" xbr="839.64" ybr="197.82" z_order="0">
+    </box>
+  </image>
+  <image id="852" name="frame_3416.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="504.18" ytl="157.73" xbr="1044.20" ybr="552.10" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="648.55" ytl="170.73" xbr="894.00" ybr="521.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="786.91" ytl="274.18" xbr="830.55" ybr="332.36" z_order="0">
+    </box>
+  </image>
+  <image id="853" name="frame_3417.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="741.27" ytl="187.09" xbr="941.27" ybr="534.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="610.55" ytl="168.73" xbr="1112.18" ybr="574.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="774.00" ytl="295.82" xbr="810.55" ybr="348.73" z_order="0">
+    </box>
+  </image>
+  <image id="854" name="frame_3418.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="704.91" ytl="184.91" xbr="746.91" ybr="237.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="575.82" ytl="108.91" xbr="777.64" ybr="414.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="397.82" ytl="95.82" xbr="864.91" ybr="459.64" z_order="0">
+    </box>
+  </image>
+  <image id="863" name="frame_3427.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="632.18" ytl="123.64" xbr="848.55" ybr="410.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="756.00" ytl="203.27" xbr="803.09" ybr="243.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="561.27" ytl="106.91" xbr="1010.55" ybr="443.27" z_order="0">
+    </box>
+  </image>
+  <image id="868" name="frame_3432.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="528.55" ytl="152.73" xbr="715.82" ybr="432.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="444.91" ytl="125.09" xbr="910.55" ybr="461.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="544.91" ytl="223.27" xbr="584.91" ybr="272.36" z_order="0">
+    </box>
+  </image>
+  <image id="873" name="frame_3437.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="728.55" ytl="423.45" xbr="975.82" ybr="794.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="656.00" ytl="408.73" xbr="1123.09" ybr="817.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="881.27" ytl="517.82" xbr="934.18" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="882" name="frame_3446.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="766.73" ytl="339.82" xbr="1208.55" ybr="785.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="939.45" ytl="483.09" xbr="981.27" ybr="557.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="917.64" ytl="401.27" xbr="1108.73" ybr="765.09" z_order="0">
+    </box>
+  </image>
+  <image id="883" name="frame_3447.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="779.64" ytl="130.36" xbr="968.55" ybr="394.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="884.91" ytl="177.82" xbr="928.73" ybr="232.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="668.55" ytl="110.91" xbr="1130.36" ybr="436.36" z_order="0">
+    </box>
+  </image>
+  <image id="887" name="frame_3451.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="474.00" ytl="120.00" xbr="919.45" ybr="420.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="606.73" ytl="126.91" xbr="748.73" ybr="386.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="714.00" ytl="205.09" xbr="743.09" ybr="243.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="617.64" ytl="206.73" xbr="646.91" ybr="257.82" z_order="0">
+    </box>
+  </image>
+  <image id="929" name="frame_3493.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="603.09" ytl="165.09" xbr="730.55" ybr="425.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="617.64" ytl="237.82" xbr="636.00" ybr="285.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="477.64" ytl="143.64" xbr="903.09" ybr="465.45" z_order="0">
+    </box>
+  </image>
+  <image id="951" name="frame_3515.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="386.73" ytl="114.55" xbr="870.36" ybr="438.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="597.82" ytl="228.55" xbr="630.55" ybr="268.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="457.82" ytl="126.91" xbr="692.18" ybr="423.27" z_order="0">
+    </box>
+  </image>
+  <image id="954" name="frame_3518.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="837.64" ytl="221.27" xbr="1021.27" ybr="596.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="857.61" ytl="348.52" xbr="892.18" ybr="399.64" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="688.55" ytl="209.09" xbr="1175.82" ybr="652.73" z_order="0">
+    </box>
+  </image>
+  <image id="959" name="frame_3523.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="830.36" ytl="310.36" xbr="866.91" ybr="368.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="675.82" ytl="192.73" xbr="1132.18" ybr="563.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="810.36" ytl="206.73" xbr="981.27" ybr="521.45" z_order="0">
+    </box>
+  </image>
+  <image id="965" name="frame_3529.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="1059.45" ytl="201.27" xbr="1252.18" ybr="536.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="1084.91" ytl="277.82" xbr="1117.82" ybr="334.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="821.27" ytl="194.55" xbr="1288.55" ybr="541.82" z_order="0">
+    </box>
+  </image>
+  <image id="974" name="frame_3538.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="423.09" ytl="136.36" xbr="859.45" ybr="454.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="659.64" ytl="232.18" xbr="686.73" ybr="279.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="557.64" ytl="163.09" xbr="712.18" ybr="401.45" z_order="0">
+    </box>
+  </image>
+  <image id="987" name="frame_3551.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="337.64" ytl="154.55" xbr="937.64" ybr="578.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="616.00" ytl="268.55" xbr="659.64" ybr="323.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="497.64" ytl="166.73" xbr="688.73" ybr="510.55" z_order="0">
+    </box>
+  </image>
+  <image id="988" name="frame_3552.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="335.82" ytl="143.64" xbr="855.82" ybr="490.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="594.00" ytl="230.36" xbr="626.91" ybr="277.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="481.27" ytl="159.45" xbr="643.09" ybr="417.82" z_order="0">
+    </box>
+  </image>
+  <image id="994" name="frame_3558.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="554.00" ytl="137.64" xbr="721.27" ybr="399.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="672.18" ytl="221.27" xbr="701.27" ybr="261.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="444.91" ytl="118.18" xbr="955.82" ybr="470.91" z_order="0">
+    </box>
+  </image>
+  <image id="996" name="frame_3560.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="624.91" ytl="254.00" xbr="661.27" ybr="290.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="403.09" ytl="170.91" xbr="872.18" ybr="474.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="519.45" ytl="197.82" xbr="683.09" ybr="416.00" z_order="0">
+    </box>
+  </image>
+  <image id="997" name="frame_3561.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="775.82" ytl="154.00" xbr="984.91" ybr="446.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="568.55" ytl="147.27" xbr="1048.55" ybr="509.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="910.55" ytl="230.36" xbr="948.55" ybr="268.73" z_order="0">
+    </box>
+  </image>
+  <image id="998" name="frame_3562.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="394.00" ytl="138.18" xbr="855.82" ybr="512.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="615.82" ytl="146.73" xbr="821.27" ybr="428.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="761.27" ytl="210.36" xbr="796.00" ybr="261.45" z_order="0">
+    </box>
+  </image>
+  <image id="1002" name="frame_3566.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="764.91" ytl="185.09" xbr="801.27" ybr="232.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="734.00" ytl="97.64" xbr="948.73" ybr="441.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="481.27" ytl="96.36" xbr="966.73" ybr="507.27" z_order="0">
+    </box>
+  </image>
+  <image id="1004" name="frame_3568.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="450.36" ytl="247.27" xbr="886.73" ybr="634.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="639.64" ytl="372.18" xbr="672.18" ybr="416.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="506.73" ytl="270.36" xbr="699.64" ybr="586.91" z_order="0">
+    </box>
+  </image>
+  <image id="1005" name="frame_3569.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="526.73" ytl="127.27" xbr="994.00" ybr="518.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="901.27" ytl="215.82" xbr="943.27" ybr="257.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="766.73" ytl="139.45" xbr="957.82" ybr="457.82" z_order="0">
+    </box>
+  </image>
+  <image id="1008" name="frame_3572.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="804.91" ytl="157.64" xbr="1001.27" ybr="470.54" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="564.91" ytl="152.73" xbr="1019.45" ybr="530.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="956.00" ytl="243.09" xbr="984.91" ybr="290.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="830.36" ytl="246.73" xbr="859.64" ybr="283.27" z_order="0">
+    </box>
+  </image>
+  <image id="1010" name="frame_3574.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="835.82" ytl="237.64" xbr="1004.91" ybr="519.64" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="712.18" ytl="214.55" xbr="1166.73" ybr="574.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="855.82" ytl="332.18" xbr="879.64" ybr="366.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="952.18" ytl="335.82" xbr="988.73" ybr="377.82" z_order="0">
+    </box>
+  </image>
+  <image id="1016" name="frame_3580.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="506.73" ytl="50.91" xbr="994.00" ybr="467.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="763.09" ytl="57.82" xbr="977.82" ybr="352.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="916.00" ytl="137.82" xbr="950.55" ybr="177.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="784.91" ytl="135.82" xbr="823.09" ybr="179.64" z_order="0">
+    </box>
+  </image>
+  <image id="1017" name="frame_3581.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="723.09" ytl="168.55" xbr="746.91" ybr="216.00" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="635.82" ytl="67.27" xbr="1050.36" ybr="472.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="706.73" ytl="79.45" xbr="885.09" ybr="396.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="843.09" ytl="174.00" xbr="872.18" ybr="219.64" z_order="0">
+    </box>
+  </image>
+  <image id="1022" name="frame_3586.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="937.82" ytl="263.27" xbr="961.27" ybr="303.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="828.55" ytl="261.27" xbr="861.27" ybr="299.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="794.00" ytl="170.36" xbr="979.64" ybr="436.00" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="610.36" ytl="125.45" xbr="1015.82" ybr="449.09" z_order="0">
+    </box>
+  </image>
+  <image id="1033" name="frame_3597.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="146.73" ytl="172.73" xbr="555.82" ybr="516.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="330.55" ytl="283.09" xbr="361.27" ybr="319.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="224.91" ytl="199.45" xbr="394.00" ybr="454.18" z_order="0">
+    </box>
+  </image>
+  <image id="1034" name="frame_3598.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="712.18" ytl="297.64" xbr="744.91" ybr="341.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="510.36" ytl="160.00" xbr="1070.36" ybr="609.09" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="694.00" ytl="188.55" xbr="874.00" ybr="554.18" z_order="0">
+    </box>
+  </image>
+  <image id="1036" name="frame_3600.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="481.27" ytl="597.64" xbr="525.09" ybr="650.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="370.36" ytl="483.09" xbr="544.91" ybr="837.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="261.27" ytl="460.00" xbr="763.09" ybr="874.55" z_order="0">
+    </box>
+  </image>
+  <image id="1038" name="frame_3602.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="452.18" ytl="259.45" xbr="474.00" ybr="303.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="288.55" ytl="156.36" xbr="748.55" ybr="518.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="435.82" ytl="176.00" xbr="603.09" ybr="472.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="561.27" ytl="257.64" xbr="586.91" ybr="301.45" z_order="0">
+    </box>
+  </image>
+  <image id="1039" name="frame_3603.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="494.00" ytl="270.36" xbr="676.00" ybr="610.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="412.18" ytl="256.36" xbr="923.09" ybr="656.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="610.55" ytl="372.18" xbr="657.64" ybr="428.73" z_order="0">
+    </box>
+  </image>
+  <image id="1040" name="frame_3604.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="492.18" ytl="352.18" xbr="528.73" ybr="403.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="252.18" ytl="236.36" xbr="630.36" ybr="583.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="381.27" ytl="266.73" xbr="546.91" ybr="541.45" z_order="0">
+    </box>
+  </image>
+  <image id="1041" name="frame_3605.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="761.27" ytl="170.91" xbr="1214.00" ybr="661.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="996.00" ytl="339.45" xbr="1036.00" ybr="397.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="874.00" ytl="339.45" xbr="904.91" ybr="403.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="844.91" ytl="234.00" xbr="1052.18" ybr="599.64" z_order="0">
+    </box>
+  </image>
+  <image id="1042" name="frame_3606.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="339.64" ytl="326.91" xbr="383.09" ybr="365.09" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="146.73" ytl="214.55" xbr="623.09" ybr="563.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="241.27" ytl="230.36" xbr="403.09" ybr="497.82" z_order="0">
+    </box>
+  </image>
+  <image id="1043" name="frame_3607.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="830.36" ytl="284.91" xbr="884.91" ybr="361.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="804.91" ytl="188.55" xbr="999.64" ybr="583.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="684.91" ytl="176.36" xbr="1195.82" ybr="641.82" z_order="0">
+    </box>
+  </image>
+  <image id="1045" name="frame_3609.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="352.18" ytl="256.36" xbr="804.91" ybr="641.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="426.73" ytl="288.55" xbr="606.91" ybr="579.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="548.73" ytl="361.27" xbr="584.91" ybr="412.36" z_order="0">
+    </box>
+  </image>
+  <image id="1051" name="frame_3615.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="788.73" ytl="281.27" xbr="828.73" ybr="326.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="664.91" ytl="281.27" xbr="690.55" ybr="319.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="632.18" ytl="199.45" xbr="846.91" ybr="494.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="515.82" ytl="150.91" xbr="1008.55" ybr="570.91" z_order="0">
+    </box>
+  </image>
+  <image id="1055" name="frame_3619.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="674.00" ytl="210.73" xbr="1137.64" ybr="583.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="888.54" ytl="337.64" xbr="919.64" ybr="381.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="863.09" ytl="248.55" xbr="1057.82" ybr="548.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="997.82" ytl="332.18" xbr="1030.55" ybr="379.64" z_order="0">
+    </box>
+  </image>
+  <image id="1056" name="frame_3620.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="719.45" ytl="292.36" xbr="744.91" ybr="332.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="568.55" ytl="172.73" xbr="1039.45" ybr="572.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="697.64" ytl="199.45" xbr="884.91" ybr="497.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="826.91" ytl="297.82" xbr="859.64" ybr="346.91" z_order="0">
+    </box>
+  </image>
+  <image id="1057" name="frame_3621.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="132.18" ytl="192.73" xbr="539.45" ybr="529.09" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="248.55" ytl="228.55" xbr="357.82" ybr="452.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="321.27" ytl="299.45" xbr="354.18" ybr="336.00" z_order="0">
+    </box>
+  </image>
+  <image id="1058" name="frame_3622.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="639.64" ytl="252.18" xbr="674.00" ybr="297.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="523.09" ytl="254.18" xbr="557.82" ybr="303.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="323.09" ytl="123.64" xbr="857.64" ybr="534.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="514.00" ytl="163.09" xbr="699.64" ybr="466.91" z_order="0">
+    </box>
+  </image>
+  <image id="1063" name="frame_3627.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="843.09" ytl="637.82" xbr="892.18" ybr="686.91" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="610.36" ytl="441.82" xbr="1063.09" ybr="920.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="823.09" ytl="514.00" xbr="1034.00" ybr="908.73" z_order="0">
+    </box>
+  </image>
+  <image id="1064" name="frame_3628.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="723.09" ytl="637.82" xbr="764.91" ybr="703.27" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="539.45" ytl="467.09" xbr="1101.27" ybr="912.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="712.18" ytl="506.91" xbr="914.00" ybr="905.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="860.91" ytl="631.82" xbr="906.36" ybr="702.73" z_order="0">
+    </box>
+  </image>
+  <image id="1067" name="frame_3631.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="564.91" ytl="129.09" xbr="1037.64" ybr="503.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="654.00" ytl="152.18" xbr="824.91" ybr="476.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="766.91" ytl="248.55" xbr="806.91" ybr="296.00" z_order="0">
+    </box>
+  </image>
+  <image id="1068" name="frame_3632.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="746.73" ytl="690.36" xbr="790.55" ybr="759.64" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="492.18" ytl="516.18" xbr="966.73" ybr="970.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="724.91" ytl="572.18" xbr="916.00" ybr="965.09" z_order="0">
+    </box>
+  </image>
+  <image id="1079" name="frame_3643.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="670.00" ytl="302.73" xbr="722.73" ybr="350.00" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="392.18" ytl="169.09" xbr="950.36" ybr="587.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="532.18" ytl="214.00" xbr="736.00" ybr="506.91" z_order="0">
+    </box>
+  </image>
+  <image id="1083" name="frame_3647.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="635.82" ytl="254.55" xbr="1144.91" ybr="707.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="857.64" ytl="306.73" xbr="1077.82" ybr="690.55" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="994.00" ytl="428.55" xbr="1044.91" ybr="483.27" z_order="0">
+    </box>
+  </image>
+  <image id="1089" name="frame_3653.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="455.82" ytl="559.45" xbr="666.91" ybr="905.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="576.00" ytl="674.18" xbr="628.73" ybr="734.18" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="332.18" ytl="461.82" xbr="912.18" ybr="927.27" z_order="0">
+    </box>
+  </image>
+  <image id="1101" name="frame_3665.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="1035.82" ytl="257.82" xbr="1070.55" ybr="312.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="679.45" ytl="198.18" xbr="1290.36" ybr="616.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="994.00" ytl="210.36" xbr="1237.82" ybr="552.36" z_order="0">
+    </box>
+  </image>
+  <image id="1102" name="frame_3666.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="443.09" ytl="503.64" xbr="955.82" ybr="870.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="515.82" ytl="575.82" xbr="683.09" ybr="866.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="623.09" ytl="652.18" xbr="674.00" ybr="703.27" z_order="0">
+    </box>
+  </image>
+  <image id="1108" name="frame_3672.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="464.91" ytl="519.45" xbr="644.91" ybr="817.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="583.27" ytl="617.64" xbr="621.27" ybr="670.55" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="415.82" ytl="445.45" xbr="881.27" ybr="849.09" z_order="0">
+    </box>
+  </image>
+  <image id="1141" name="frame_3705.png" width="1350" height="1080">
+    <box label="cabeca" source="manual" occluded="0" xtl="903.09" ytl="474.00" xbr="1076.00" ybr="768.73" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="752.18" ytl="425.09" xbr="1126.91" ybr="785.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="944.91" ytl="559.45" xbr="979.64" ybr="608.73" z_order="0">
+    </box>
+  </image>
+  <image id="1142" name="frame_3706.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="430.36" ytl="565.09" xbr="474.00" ybr="632.36" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="237.82" ytl="374.18" xbr="768.73" ybr="883.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="415.82" ytl="421.27" xbr="624.91" ybr="843.27" z_order="0">
+    </box>
+  </image>
+  <image id="1153" name="frame_3717.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="59.64" ytl="146.91" xbr="615.82" ybr="563.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="199.45" ytl="170.36" xbr="414.00" ybr="494.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="332.18" ytl="275.82" xbr="376.00" ybr="328.73" z_order="0">
+    </box>
+  </image>
+  <image id="1159" name="frame_3723.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="372.18" ytl="303.09" xbr="404.91" ybr="361.45" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="181.27" ytl="165.09" xbr="725.09" ybr="614.18" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="335.82" ytl="190.36" xbr="552.18" ybr="579.64" z_order="0">
+    </box>
+  </image>
+  <image id="1167" name="frame_3731.png" width="1350" height="1080">
+    <box label="olho" source="manual" occluded="0" xtl="670.36" ytl="215.82" xbr="716.00" ybr="279.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="648.55" ytl="128.55" xbr="839.64" ybr="477.82" z_order="0">
+    </box>
+    <box label="contexto" source="manual" occluded="0" xtl="476.00" ytl="116.00" xbr="997.82" ybr="519.64" z_order="0">
+    </box>
+  </image>
+  <image id="1175" name="frame_3739.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="243.09" ytl="114.18" xbr="706.91" ybr="510.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="344.91" ytl="134.18" xbr="543.09" ybr="474.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="459.64" ytl="212.18" xbr="499.64" ybr="283.27" z_order="0">
+    </box>
+  </image>
+  <image id="1176" name="frame_3740.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="596.00" ytl="123.27" xbr="1023.09" ybr="443.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="726.73" ytl="139.45" xbr="897.82" ybr="377.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="746.73" ytl="212.18" xbr="776.00" ybr="257.82" z_order="0">
+    </box>
+  </image>
+  <image id="1187" name="frame_3751.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="283.09" ytl="416.00" xbr="916.00" ybr="990.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="503.09" ytl="492.18" xbr="739.64" ybr="966.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="524.91" ytl="655.82" xbr="577.82" ybr="721.45" z_order="0">
+    </box>
+  </image>
+  <image id="1188" name="frame_3752.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="628.73" ytl="399.64" xbr="1081.27" ybr="846.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="764.91" ytl="463.27" xbr="966.91" ybr="792.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="794.00" ytl="583.09" xbr="836.00" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="1198" name="frame_3762.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="186.91" ytl="101.27" xbr="695.82" ybr="452.36" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="388.55" ytl="106.73" xbr="568.73" ybr="397.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="397.64" ytl="175.82" xbr="436.00" ybr="237.82" z_order="0">
+    </box>
+  </image>
+  <image id="1203" name="frame_3767.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="97.82" ytl="414.00" xbr="639.64" ybr="986.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="212.18" ytl="496.00" xbr="437.82" ybr="943.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="224.91" ytl="657.64" xbr="276.00" ybr="730.55" z_order="0">
+    </box>
+  </image>
+  <image id="1205" name="frame_3769.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="84.91" ytl="108.55" xbr="590.55" ybr="563.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="210.36" ytl="121.27" xbr="441.27" ybr="505.09" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="356.00" ytl="246.91" xbr="394.00" ybr="305.09" z_order="0">
+    </box>
+  </image>
+  <image id="1206" name="frame_3770.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="637.64" ytl="166.73" xbr="1041.50" ybr="479.60" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="674.00" ytl="177.82" xbr="888.73" ybr="463.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="732.18" ytl="263.27" xbr="772.18" ybr="312.36" z_order="0">
+    </box>
+  </image>
+  <image id="1207" name="frame_3771.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="117.82" ytl="105.09" xbr="612.18" ybr="476.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="194.00" ytl="103.09" xbr="417.64" ybr="434.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="226.73" ytl="176.00" xbr="281.27" ybr="234.18" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="354.00" ytl="190.36" xbr="384.91" ybr="234.18" z_order="0">
+    </box>
+  </image>
+  <image id="1219" name="frame_3783.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="434.00" ytl="456.00" xbr="976.00" ybr="1030.55" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="564.91" ytl="539.45" xbr="790.55" ybr="1017.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="597.64" ytl="710.36" xbr="643.09" ybr="765.09" z_order="0">
+    </box>
+  </image>
+  <image id="1225" name="frame_3789.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="283.09" ytl="126.91" xbr="808.73" ybr="561.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="368.55" ytl="164.91" xbr="619.64" ybr="508.73" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="524.91" ytl="270.36" xbr="563.09" ybr="341.45" z_order="0">
+    </box>
+  </image>
+  <image id="1251" name="frame_3815.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="0.00" ytl="208.55" xbr="592.18" ybr="837.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="3.09" ytl="264.91" xbr="261.27" ybr="721.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="134.00" ytl="384.91" xbr="196.00" ybr="466.91" z_order="0">
+    </box>
+  </image>
+  <image id="1252" name="frame_3816.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="343.09" ytl="379.45" xbr="930.55" ybr="906.91" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="512.18" ytl="446.91" xbr="717.82" ybr="896.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="528.55" ytl="595.82" xbr="576.00" ybr="668.73" z_order="0">
+    </box>
+  </image>
+  <image id="1253" name="frame_3817.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="581.27" ytl="421.45" xbr="1099.64" ybr="877.82" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="744.91" ytl="464.91" xbr="901.27" ybr="826.91" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="783.09" ytl="601.27" xbr="816.00" ybr="654.18" z_order="0">
+    </box>
+  </image>
+  <image id="1254" name="frame_3818.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="132.18" ytl="386.91" xbr="726.91" ybr="1003.27" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="306.73" ytl="461.27" xbr="526.91" ybr="943.27" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="324.91" ytl="630.36" xbr="374.00" ybr="699.64" z_order="0">
+    </box>
+  </image>
+  <image id="1264" name="frame_3828.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="370.36" ytl="532.18" xbr="866.91" ybr="1028.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="597.64" ytl="584.91" xbr="790.55" ybr="996.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="619.45" ytl="697.64" xbr="663.09" ybr="779.64" z_order="0">
+    </box>
+  </image>
+  <image id="1265" name="frame_3829.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="4.91" ytl="314.00" xbr="590.55" ybr="1079.64" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="12.18" ytl="477.64" xbr="296.00" ybr="1079.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="221.27" ytl="666.73" xbr="268.73" ybr="739.64" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="21.27" ytl="654.18" xbr="64.91" ybr="732.36" z_order="0">
+    </box>
+  </image>
+  <image id="1266" name="frame_3830.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="48.73" ytl="259.45" xbr="590.55" ybr="948.73" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="106.73" ytl="355.82" xbr="363.09" ybr="921.45" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="299.64" ytl="510.36" xbr="330.55" ybr="572.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="119.45" ytl="537.82" xbr="172.18" ybr="616.00" z_order="0">
+    </box>
+  </image>
+  <image id="1268" name="frame_3832.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="268.55" ytl="288.55" xbr="832.18" ybr="856.00" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="483.09" ytl="388.55" xbr="730.55" ybr="837.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="495.82" ytl="532.18" xbr="541.27" ybr="596.00" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="657.82" ytl="545.09" xbr="692.18" ybr="594.18" z_order="0">
+    </box>
+  </image>
+  <image id="1271" name="frame_3835.png" width="1350" height="1080">
+    <box label="contexto" source="manual" occluded="0" xtl="250.55" ytl="125.09" xbr="810.55" ybr="621.45" z_order="0">
+    </box>
+    <box label="cabeca" source="manual" occluded="0" xtl="348.55" ytl="136.00" xbr="559.64" ybr="552.36" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="497.82" ytl="246.73" xbr="534.00" ybr="337.82" z_order="0">
+    </box>
+    <box label="olho" source="manual" occluded="0" xtl="368.55" ytl="261.27" xbr="408.73" ybr="316.00" z_order="0">
+    </box>
+  </image>
+</annotations>

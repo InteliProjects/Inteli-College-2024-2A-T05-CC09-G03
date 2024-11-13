@@ -1,0 +1,45 @@
+/* Fundo cinza-azulado e texto branco */
+body .stApp {
+    background-color: #2B3E50 !important;
+    color: #FFFFFF !important;
+}
+
+/* Footer */
+body .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    color: #FFFFFF !important;
+    font-size: 12px;
+    background-color: #2B3E50 !important;
+}
+
+/* Ajustar cores dos textos */
+body h1, body h2, body h3, body h4, body h5, body h6, body p, body div, body label, body span {
+    color: #FFFFFF !important;
+}
+
+/* Ajustar cores dos botões */
+body .stButton>button {
+    background-color: #333333 !important;
+    color: #FFFFFF !important;
+}
+
+/* Estilização do header */
+body header[data-testid="stHeader"] {
+    background-color: #2B3E50 !important;
+}
+
+/* Ajuste da cor do texto e ícones no header */
+body header[data-testid="stHeader"] * {
+    color: #FFFFFF !important;
+    fill: #FFFFFF !important;
+}
+
+/* Estilização da barra lateral (se aplicável) */
+body section[data-testid="stSidebar"] {
+    background-color: #2B3E50 !important;
+}

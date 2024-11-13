@@ -1,0 +1,5 @@
+Pipfile
+.python-version
+.venv/
+codigo/deteccao_cabeca/modelo_deteccao_cabeca_completo.pth
+codigo/modelo_segmentacao/modelo_segmentacao.keras

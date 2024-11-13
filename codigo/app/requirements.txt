@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+tensorflow
+easyocr
+pandas
+opencv-python
+matplotlib
+moviepy
